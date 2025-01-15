@@ -23,8 +23,8 @@ been demonstrated that aligns well with the simulated ones. <br>
 
 <h4>Softwares Used:</h4>
 <li>CST and HFSS: Design and Simulation of Absorber</li>
-<li>ADS:Design of Equivalent Circuit</li>
-<li>MATLAB:Plotting data</li><br>
+<li>ADS: Design of Equivalent Circuit</li>
+<li>MATLAB: Plotting data</li><br>
 
 
 1]Circuit Geometry:
