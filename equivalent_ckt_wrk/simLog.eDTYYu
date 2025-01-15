@@ -1,0 +1,1729 @@
+
+hpeesofsim (*) 550.shp Jul 24 2021, MINT version 5
+    (64-bit windows built: Sat Jul 24, 2021 16:09:49 +0000)
+
+
+***** Simulation started at Tue May  7 20:29:59 2024
+      Running on host: "Guna-Windows"
+      In Directory: "C:\Users\GUNA\OneDrive\Desktop\Acad\Project\ADS\equivalent_ckt_wrk\data"
+      Process ID: 3500
+
+
+OPTIM Optim1[1] <equivalent_ckt_lib:cell_1:schematic>  optIter=(0->25000)
+
+SP Optim1[1].SP1[0] <equivalent_ckt_lib:cell_1:schematic>  optIter=0  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #0:
+  CurrentEF: 5.08588543698764
+  Optimization variables:
+    C1 = 17.0017
+    C2 = 1.21375
+    C3 = 16.6893
+    L1 = 10.3064
+    L2 = 8.42266
+    L3 = 3.80953
+
+SP Optim1[1].SP1[99] <equivalent_ckt_lib:cell_1:schematic>  optIter=99  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #99:
+  CurrentEF: 5.08425931212831
+  Optimization variables:
+    C1 = 16.9946558163326
+    C2 = 1.223649453684913
+    C3 = 16.68223992550363
+    L1 = 10.30572014469967
+    L2 = 8.400094876598271
+    L3 = 3.814662489724919
+
+SP Optim1[1].SP1[534] <equivalent_ckt_lib:cell_1:schematic>  optIter=534  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #534:
+  CurrentEF: 5.08339848259413
+  Optimization variables:
+    C1 = 16.9835948627936
+    C2 = 1.219942028121511
+    C3 = 16.69893206443036
+    L1 = 10.30839449550037
+    L2 = 8.349804655951321
+    L3 = 3.807119424717453
+
+SP Optim1[1].SP1[706] <equivalent_ckt_lib:cell_1:schematic>  optIter=706  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #706:
+  CurrentEF: 5.08302853318024
+  Optimization variables:
+    C1 = 16.99676683916713
+    C2 = 1.222231168131125
+    C3 = 16.71116633764256
+    L1 = 10.29941547661816
+    L2 = 8.354777227583771
+    L3 = 3.80596362378031
+
+SP Optim1[1].SP1[710] <equivalent_ckt_lib:cell_1:schematic>  optIter=710  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #710:
+  CurrentEF: 5.08214169917048
+  Optimization variables:
+    C1 = 16.97880459167575
+    C2 = 1.23524879512979
+    C3 = 16.70564129609012
+    L1 = 10.32108441754415
+    L2 = 8.316774019001342
+    L3 = 3.812236843441275
+
+SP Optim1[1].SP1[726] <equivalent_ckt_lib:cell_1:schematic>  optIter=726  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #726:
+  CurrentEF: 5.08008418437344
+  Optimization variables:
+    C1 = 16.95240413985489
+    C2 = 1.21905653198103
+    C3 = 16.69213012018835
+    L1 = 10.33196739447072
+    L2 = 8.270052122290172
+    L3 = 3.810718798393834
+
+SP Optim1[1].SP1[1028] <equivalent_ckt_lib:cell_1:schematic>  optIter=1028  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #1028:
+  CurrentEF: 5.07992662778276
+  Optimization variables:
+    C1 = 16.94438244486336
+    C2 = 1.218627328271363
+    C3 = 16.69921968538119
+    L1 = 10.33834388899096
+    L2 = 8.260951038472443
+    L3 = 3.810963469328033
+
+SP Optim1[1].SP1[1049] <equivalent_ckt_lib:cell_1:schematic>  optIter=1049  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #1049:
+  CurrentEF: 5.07934197705768
+  Optimization variables:
+    C1 = 16.93801003662474
+    C2 = 1.212890013957465
+    C3 = 16.73102066759695
+    L1 = 10.34466784286935
+    L2 = 8.254872571695026
+    L3 = 3.804337752740773
+
+SP Optim1[1].SP1[1611] <equivalent_ckt_lib:cell_1:schematic>  optIter=1611  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #1611:
+  CurrentEF: 5.07853184358909
+  Optimization variables:
+    C1 = 16.96494701717177
+    C2 = 1.215596401116624
+    C3 = 16.74710122282999
+    L1 = 10.32380077932397
+    L2 = 8.245101762261331
+    L3 = 3.800222114467628
+
+SP Optim1[1].SP1[1638] <equivalent_ckt_lib:cell_1:schematic>  optIter=1638  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #1638:
+  CurrentEF: 5.07827431856719
+  Optimization variables:
+    C1 = 16.96144116945893
+    C2 = 1.219956531742799
+    C3 = 16.73308665932808
+    L1 = 10.31929432773122
+    L2 = 8.238688370599396
+    L3 = 3.805158329054763
+
+SP Optim1[1].SP1[1931] <equivalent_ckt_lib:cell_1:schematic>  optIter=1931  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #1931:
+  CurrentEF: 5.0767405487381
+  Optimization variables:
+    C1 = 16.96916768427333
+    C2 = 1.22585061974708
+    C3 = 16.70385733247204
+    L1 = 10.32279216125175
+    L2 = 8.207364546489652
+    L3 = 3.808358858855282
+
+SP Optim1[1].SP1[1942] <equivalent_ckt_lib:cell_1:schematic>  optIter=1942  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #1942:
+  CurrentEF: 5.07549416838962
+  Optimization variables:
+    C1 = 16.96499788925226
+    C2 = 1.229142781573619
+    C3 = 16.70847775403399
+    L1 = 10.32379689369078
+    L2 = 8.187388747919886
+    L3 = 3.810384436400418
+
+SP Optim1[1].SP1[2071] <equivalent_ckt_lib:cell_1:schematic>  optIter=2071  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #2071:
+  CurrentEF: 5.07412462630032
+  Optimization variables:
+    C1 = 17.00631359145356
+    C2 = 1.224693518266273
+    C3 = 16.72182819219271
+    L1 = 10.30007778509089
+    L2 = 8.152403033943877
+    L3 = 3.803879904538653
+
+SP Optim1[1].SP1[2085] <equivalent_ckt_lib:cell_1:schematic>  optIter=2085  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #2085:
+  CurrentEF: 5.07401075670566
+  Optimization variables:
+    C1 = 16.99187294271286
+    C2 = 1.221069751109491
+    C3 = 16.70579659433767
+    L1 = 10.30253088545102
+    L2 = 8.147123560690536
+    L3 = 3.805346956056472
+
+SP Optim1[1].SP1[2094] <equivalent_ckt_lib:cell_1:schematic>  optIter=2094  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #2094:
+  CurrentEF: 5.07391819613471
+  Optimization variables:
+    C1 = 17.02169749169659
+    C2 = 1.235240359959614
+    C3 = 16.72255984710171
+    L1 = 10.29652168192273
+    L2 = 8.141552639003859
+    L3 = 3.807374260604154
+
+SP Optim1[1].SP1[2228] <equivalent_ckt_lib:cell_1:schematic>  optIter=2228  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #2228:
+  CurrentEF: 5.07280412570689
+  Optimization variables:
+    C1 = 17.02270209113777
+    C2 = 1.229300903651069
+    C3 = 16.67842549594199
+    L1 = 10.29417367198567
+    L2 = 8.131841730078525
+    L3 = 3.813703349859917
+
+SP Optim1[1].SP1[2247] <equivalent_ckt_lib:cell_1:schematic>  optIter=2247  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #2247:
+  CurrentEF: 5.07173264981076
+  Optimization variables:
+    C1 = 17.02247712549716
+    C2 = 1.242936830673831
+    C3 = 16.69257866862876
+    L1 = 10.29376111243352
+    L2 = 8.109471828530115
+    L3 = 3.813880667922232
+
+SP Optim1[1].SP1[2821] <equivalent_ckt_lib:cell_1:schematic>  optIter=2821  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #2821:
+  CurrentEF: 5.07159885474111
+  Optimization variables:
+    C1 = 17.0191916634931
+    C2 = 1.237054032544185
+    C3 = 16.70227651719783
+    L1 = 10.29395735139162
+    L2 = 8.11288843338008
+    L3 = 3.810505995245187
+
+SP Optim1[1].SP1[3074] <equivalent_ckt_lib:cell_1:schematic>  optIter=3074  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3074:
+  CurrentEF: 5.07083172111496
+  Optimization variables:
+    C1 = 17.07621374474489
+    C2 = 1.235783215495944
+    C3 = 16.69420834078914
+    L1 = 10.26185558391533
+    L2 = 8.026277465539527
+    L3 = 3.807710496143233
+
+SP Optim1[1].SP1[3121] <equivalent_ckt_lib:cell_1:schematic>  optIter=3121  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3121:
+  CurrentEF: 5.07029355199625
+  Optimization variables:
+    C1 = 17.07299947841486
+    C2 = 1.251156975933063
+    C3 = 16.68258799868453
+    L1 = 10.24584577553597
+    L2 = 8.022925242438447
+    L3 = 3.817549281343669
+
+SP Optim1[1].SP1[3136] <equivalent_ckt_lib:cell_1:schematic>  optIter=3136  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3136:
+  CurrentEF: 5.06851151257635
+  Optimization variables:
+    C1 = 17.07652892266581
+    C2 = 1.239887998562032
+    C3 = 16.67849079305094
+    L1 = 10.25272800882106
+    L2 = 7.996453400663711
+    L3 = 3.81051080879074
+
+SP Optim1[1].SP1[3264] <equivalent_ckt_lib:cell_1:schematic>  optIter=3264  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3264:
+  CurrentEF: 5.06794999138965
+  Optimization variables:
+    C1 = 17.10709896252553
+    C2 = 1.261640091565779
+    C3 = 16.63063798328272
+    L1 = 10.22576683165528
+    L2 = 7.973777863779306
+    L3 = 3.826570982435529
+
+SP Optim1[1].SP1[3434] <equivalent_ckt_lib:cell_1:schematic>  optIter=3434  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3434:
+  CurrentEF: 5.06756895085965
+  Optimization variables:
+    C1 = 17.12398508895732
+    C2 = 1.249662293408415
+    C3 = 16.6129934209137
+    L1 = 10.22849994962841
+    L2 = 7.952632103862612
+    L3 = 3.826757341812413
+
+SP Optim1[1].SP1[3592] <equivalent_ckt_lib:cell_1:schematic>  optIter=3592  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3592:
+  CurrentEF: 5.06605330669108
+  Optimization variables:
+    C1 = 17.10896883381822
+    C2 = 1.244272397936145
+    C3 = 16.62327675794637
+    L1 = 10.23386804989571
+    L2 = 7.936740243428171
+    L3 = 3.823352919840672
+
+SP Optim1[1].SP1[3595] <equivalent_ckt_lib:cell_1:schematic>  optIter=3595  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3595:
+  CurrentEF: 5.06569134869757
+  Optimization variables:
+    C1 = 17.06145488829911
+    C2 = 1.26270795370657
+    C3 = 16.65051638025284
+    L1 = 10.2465252723728
+    L2 = 7.903710349211235
+    L3 = 3.822520414392152
+
+SP Optim1[1].SP1[3679] <equivalent_ckt_lib:cell_1:schematic>  optIter=3679  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3679:
+  CurrentEF: 5.06435150547603
+  Optimization variables:
+    C1 = 17.06854533693054
+    C2 = 1.242602450011312
+    C3 = 16.67581014231985
+    L1 = 10.26679647710687
+    L2 = 7.88287496967088
+    L3 = 3.810660246050497
+
+SP Optim1[1].SP1[3692] <equivalent_ckt_lib:cell_1:schematic>  optIter=3692  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3692:
+  CurrentEF: 5.0626819988681
+  Optimization variables:
+    C1 = 17.04041062593373
+    C2 = 1.226284521019983
+    C3 = 16.69484773513392
+    L1 = 10.27604543401699
+    L2 = 7.879635778946795
+    L3 = 3.80740886848347
+
+SP Optim1[1].SP1[3727] <equivalent_ckt_lib:cell_1:schematic>  optIter=3727  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3727:
+  CurrentEF: 5.06231623502835
+  Optimization variables:
+    C1 = 17.02563104891373
+    C2 = 1.241650257737358
+    C3 = 16.68909531366026
+    L1 = 10.27527512175302
+    L2 = 7.880950994468245
+    L3 = 3.813370383907539
+
+SP Optim1[1].SP1[3848] <equivalent_ckt_lib:cell_1:schematic>  optIter=3848  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3848:
+  CurrentEF: 5.06207863846898
+  Optimization variables:
+    C1 = 17.01966269286654
+    C2 = 1.249140312171663
+    C3 = 16.68832034105713
+    L1 = 10.27618096496482
+    L2 = 7.863607748877124
+    L3 = 3.812741531395369
+
+SP Optim1[1].SP1[3881] <equivalent_ckt_lib:cell_1:schematic>  optIter=3881  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3881:
+  CurrentEF: 5.06026862231504
+  Optimization variables:
+    C1 = 17.01808910472189
+    C2 = 1.238322763578512
+    C3 = 16.68761466601368
+    L1 = 10.29556719397303
+    L2 = 7.836920760101236
+    L3 = 3.809905953479426
+
+SP Optim1[1].SP1[3892] <equivalent_ckt_lib:cell_1:schematic>  optIter=3892  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #3892:
+  CurrentEF: 5.06024272720331
+  Optimization variables:
+    C1 = 16.99588070847711
+    C2 = 1.218508028489305
+    C3 = 16.69389756456437
+    L1 = 10.30557601896777
+    L2 = 7.77961278741283
+    L3 = 3.807487153510164
+
+SP Optim1[1].SP1[4012] <equivalent_ckt_lib:cell_1:schematic>  optIter=4012  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #4012:
+  CurrentEF: 5.05813974638402
+  Optimization variables:
+    C1 = 17.02360554245593
+    C2 = 1.271019476198147
+    C3 = 16.68125060724821
+    L1 = 10.27884354471981
+    L2 = 7.752633905574554
+    L3 = 3.819971168669588
+
+SP Optim1[1].SP1[4020] <equivalent_ckt_lib:cell_1:schematic>  optIter=4020  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #4020:
+  CurrentEF: 5.05654634760803
+  Optimization variables:
+    C1 = 17.03005068103617
+    C2 = 1.235999616831155
+    C3 = 16.70723957115897
+    L1 = 10.27496961342894
+    L2 = 7.731168257837163
+    L3 = 3.807933112053266
+
+SP Optim1[1].SP1[4047] <equivalent_ckt_lib:cell_1:schematic>  optIter=4047  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #4047:
+  CurrentEF: 5.05552333098862
+  Optimization variables:
+    C1 = 17.04202590675708
+    C2 = 1.245602549573241
+    C3 = 16.6791152760616
+    L1 = 10.27370637415234
+    L2 = 7.740758115162662
+    L3 = 3.811467806473565
+
+SP Optim1[1].SP1[4156] <equivalent_ckt_lib:cell_1:schematic>  optIter=4156  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #4156:
+  CurrentEF: 5.05473424934262
+  Optimization variables:
+    C1 = 17.02757927905908
+    C2 = 1.245716320084688
+    C3 = 16.70438574516758
+    L1 = 10.28774111056167
+    L2 = 7.732399044721793
+    L3 = 3.810396989639564
+
+SP Optim1[1].SP1[4278] <equivalent_ckt_lib:cell_1:schematic>  optIter=4278  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #4278:
+  CurrentEF: 5.05356444601364
+  Optimization variables:
+    C1 = 17.04117794513084
+    C2 = 1.243951141116004
+    C3 = 16.69972263072907
+    L1 = 10.28462279970727
+    L2 = 7.68690033269696
+    L3 = 3.810580059767585
+
+SP Optim1[1].SP1[4321] <equivalent_ckt_lib:cell_1:schematic>  optIter=4321  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #4321:
+  CurrentEF: 5.05340227227255
+  Optimization variables:
+    C1 = 17.03765903516737
+    C2 = 1.243995301832164
+    C3 = 16.71278039364818
+    L1 = 10.27707574752928
+    L2 = 7.681225710070158
+    L3 = 3.80585061989719
+
+SP Optim1[1].SP1[4340] <equivalent_ckt_lib:cell_1:schematic>  optIter=4340  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #4340:
+  CurrentEF: 5.05290669777033
+  Optimization variables:
+    C1 = 17.04619580389829
+    C2 = 1.243249431097214
+    C3 = 16.72292654366241
+    L1 = 10.27712490360641
+    L2 = 7.650923940792409
+    L3 = 3.806070972563322
+
+SP Optim1[1].SP1[4346] <equivalent_ckt_lib:cell_1:schematic>  optIter=4346  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #4346:
+  CurrentEF: 5.0509941166175
+  Optimization variables:
+    C1 = 17.02668207569035
+    C2 = 1.250432568068383
+    C3 = 16.6821246856448
+    L1 = 10.2878443061188
+    L2 = 7.654009252636015
+    L3 = 3.813946592761472
+
+SP Optim1[1].SP1[5833] <equivalent_ckt_lib:cell_1:schematic>  optIter=5833  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #5833:
+  CurrentEF: 5.05001019750274
+  Optimization variables:
+    C1 = 17.04038493960685
+    C2 = 1.255434557169028
+    C3 = 16.66738389473771
+    L1 = 10.27855324519605
+    L2 = 7.63154547412404
+    L3 = 3.816253722368829
+
+SP Optim1[1].SP1[6576] <equivalent_ckt_lib:cell_1:schematic>  optIter=6576  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #6576:
+  CurrentEF: 5.04987115793677
+  Optimization variables:
+    C1 = 17.05475664089498
+    C2 = 1.257261088535071
+    C3 = 16.6885352748116
+    L1 = 10.2685900896422
+    L2 = 7.630931200463696
+    L3 = 3.813421760652804
+
+SP Optim1[1].SP1[7186] <equivalent_ckt_lib:cell_1:schematic>  optIter=7186  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #7186:
+  CurrentEF: 5.04980465563628
+  Optimization variables:
+    C1 = 17.0493426431395
+    C2 = 1.262645886754996
+    C3 = 16.69028142058562
+    L1 = 10.27621614605251
+    L2 = 7.612819424302057
+    L3 = 3.812405320970469
+
+SP Optim1[1].SP1[7199] <equivalent_ckt_lib:cell_1:schematic>  optIter=7199  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #7199:
+  CurrentEF: 5.04897190253235
+  Optimization variables:
+    C1 = 17.04620075193322
+    C2 = 1.254481663804549
+    C3 = 16.68164059465696
+    L1 = 10.27244620847984
+    L2 = 7.592708100065764
+    L3 = 3.811416670310062
+
+SP Optim1[1].SP1[7349] <equivalent_ckt_lib:cell_1:schematic>  optIter=7349  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #7349:
+  CurrentEF: 5.04869969910431
+  Optimization variables:
+    C1 = 17.0515830962949
+    C2 = 1.27323022335379
+    C3 = 16.67848866652264
+    L1 = 10.26484472686738
+    L2 = 7.587206888282247
+    L3 = 3.817621250333409
+
+SP Optim1[1].SP1[7474] <equivalent_ckt_lib:cell_1:schematic>  optIter=7474  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #7474:
+  CurrentEF: 5.04866227830123
+  Optimization variables:
+    C1 = 17.03673193557457
+    C2 = 1.258170051616465
+    C3 = 16.67173826461294
+    L1 = 10.27988300430593
+    L2 = 7.588568861375614
+    L3 = 3.818579956896409
+
+SP Optim1[1].SP1[7939] <equivalent_ckt_lib:cell_1:schematic>  optIter=7939  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #7939:
+  CurrentEF: 5.04819675941493
+  Optimization variables:
+    C1 = 17.04482176711086
+    C2 = 1.25570002668397
+    C3 = 16.69089849152146
+    L1 = 10.26900208218665
+    L2 = 7.562561564652712
+    L3 = 3.814540196257586
+
+SP Optim1[1].SP1[8053] <equivalent_ckt_lib:cell_1:schematic>  optIter=8053  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #8053:
+  CurrentEF: 5.04780053822626
+  Optimization variables:
+    C1 = 17.01819533533856
+    C2 = 1.255719064417508
+    C3 = 16.70469782098062
+    L1 = 10.29108945388788
+    L2 = 7.556300778804795
+    L3 = 3.81307189655128
+
+SP Optim1[1].SP1[8072] <equivalent_ckt_lib:cell_1:schematic>  optIter=8072  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #8072:
+  CurrentEF: 5.04758642387956
+  Optimization variables:
+    C1 = 17.02419636221121
+    C2 = 1.268203285596507
+    C3 = 16.65873198251345
+    L1 = 10.27707278855114
+    L2 = 7.536433696206712
+    L3 = 3.821531354967895
+
+SP Optim1[1].SP1[8080] <equivalent_ckt_lib:cell_1:schematic>  optIter=8080  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #8080:
+  CurrentEF: 5.04730054437542
+  Optimization variables:
+    C1 = 17.03226384699419
+    C2 = 1.253108669890259
+    C3 = 16.67376531865253
+    L1 = 10.2883761256906
+    L2 = 7.558620824827039
+    L3 = 3.814970358375729
+
+SP Optim1[1].SP1[8486] <equivalent_ckt_lib:cell_1:schematic>  optIter=8486  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #8486:
+  CurrentEF: 5.04659737712337
+  Optimization variables:
+    C1 = 17.03553639096618
+    C2 = 1.26343347562127
+    C3 = 16.70518841145777
+    L1 = 10.27057181408467
+    L2 = 7.52359401814037
+    L3 = 3.810907331680064
+
+SP Optim1[1].SP1[8693] <equivalent_ckt_lib:cell_1:schematic>  optIter=8693  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #8693:
+  CurrentEF: 5.04658737628192
+  Optimization variables:
+    C1 = 17.04518230950082
+    C2 = 1.267753365568553
+    C3 = 16.71949350656707
+    L1 = 10.26938711425328
+    L2 = 7.5126372281316
+    L3 = 3.809063140908707
+
+SP Optim1[1].SP1[8696] <equivalent_ckt_lib:cell_1:schematic>  optIter=8696  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #8696:
+  CurrentEF: 5.04556302775624
+  Optimization variables:
+    C1 = 17.04698431854973
+    C2 = 1.250732261819404
+    C3 = 16.716984935845
+    L1 = 10.27475450470515
+    L2 = 7.496157552338966
+    L3 = 3.807530464616178
+
+SP Optim1[1].SP1[8807] <equivalent_ckt_lib:cell_1:schematic>  optIter=8807  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #8807:
+  CurrentEF: 5.04540198387541
+  Optimization variables:
+    C1 = 17.01197340873435
+    C2 = 1.259647128528274
+    C3 = 16.71707893505818
+    L1 = 10.29606240421353
+    L2 = 7.514683417913476
+    L3 = 3.808097911034077
+
+SP Optim1[1].SP1[9283] <equivalent_ckt_lib:cell_1:schematic>  optIter=9283  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #9283:
+  CurrentEF: 5.04477768226003
+  Optimization variables:
+    C1 = 17.01929712084011
+    C2 = 1.258754903292833
+    C3 = 16.6780525034467
+    L1 = 10.29496899133236
+    L2 = 7.505942443841015
+    L3 = 3.814650299327388
+
+SP Optim1[1].SP1[9428] <equivalent_ckt_lib:cell_1:schematic>  optIter=9428  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #9428:
+  CurrentEF: 5.04416625182183
+  Optimization variables:
+    C1 = 17.00358608300711
+    C2 = 1.260156787797918
+    C3 = 16.71542678232603
+    L1 = 10.29753343434495
+    L2 = 7.482149289561274
+    L3 = 3.810274106648683
+
+SP Optim1[1].SP1[9854] <equivalent_ckt_lib:cell_1:schematic>  optIter=9854  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #9854:
+  CurrentEF: 5.04392662968011
+  Optimization variables:
+    C1 = 17.00435559443033
+    C2 = 1.251517094970242
+    C3 = 16.72199728286794
+    L1 = 10.30287465176513
+    L2 = 7.475338946287454
+    L3 = 3.805825250913699
+
+SP Optim1[1].SP1[9898] <equivalent_ckt_lib:cell_1:schematic>  optIter=9898  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #9898:
+  CurrentEF: 5.04366091747985
+  Optimization variables:
+    C1 = 17.00835919292589
+    C2 = 1.270201695196952
+    C3 = 16.68625185526981
+    L1 = 10.30423333832757
+    L2 = 7.467434297725819
+    L3 = 3.81582866727112
+
+SP Optim1[1].SP1[10042] <equivalent_ckt_lib:cell_1:schematic>  optIter=10042  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #10042:
+  CurrentEF: 5.04314091150462
+  Optimization variables:
+    C1 = 17.03732629023248
+    C2 = 1.260467922357612
+    C3 = 16.67069263656779
+    L1 = 10.2784280012179
+    L2 = 7.471889171518546
+    L3 = 3.814508258957158
+
+SP Optim1[1].SP1[10323] <equivalent_ckt_lib:cell_1:schematic>  optIter=10323  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #10323:
+  CurrentEF: 5.04288282508923
+  Optimization variables:
+    C1 = 17.04653382300479
+    C2 = 1.268744305734689
+    C3 = 16.6690037497924
+    L1 = 10.27809655963996
+    L2 = 7.463444298116871
+    L3 = 3.819992995836166
+
+SP Optim1[1].SP1[10335] <equivalent_ckt_lib:cell_1:schematic>  optIter=10335  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #10335:
+  CurrentEF: 5.04251614028497
+  Optimization variables:
+    C1 = 17.06808973071542
+    C2 = 1.272724941857873
+    C3 = 16.67882707652139
+    L1 = 10.26143589925592
+    L2 = 7.463290689327883
+    L3 = 3.815489896324041
+
+SP Optim1[1].SP1[10471] <equivalent_ckt_lib:cell_1:schematic>  optIter=10471  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #10471:
+  CurrentEF: 5.0423358387971
+  Optimization variables:
+    C1 = 17.07176779099488
+    C2 = 1.270149783670213
+    C3 = 16.67733370669306
+    L1 = 10.24739199092768
+    L2 = 7.435069982289523
+    L3 = 3.815115934865958
+
+SP Optim1[1].SP1[10603] <equivalent_ckt_lib:cell_1:schematic>  optIter=10603  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #10603:
+  CurrentEF: 5.04176448601024
+  Optimization variables:
+    C1 = 17.08079531221036
+    C2 = 1.268925224627922
+    C3 = 16.69949305857625
+    L1 = 10.25983403566299
+    L2 = 7.399888780447815
+    L3 = 3.814620473366979
+
+SP Optim1[1].SP1[10634] <equivalent_ckt_lib:cell_1:schematic>  optIter=10634  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #10634:
+  CurrentEF: 5.0407615951359
+  Optimization variables:
+    C1 = 17.03313546534987
+    C2 = 1.26315691328061
+    C3 = 16.69490331402436
+    L1 = 10.28022636983807
+    L2 = 7.392179078641738
+    L3 = 3.815157724122329
+
+SP Optim1[1].SP1[10743] <equivalent_ckt_lib:cell_1:schematic>  optIter=10743  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #10743:
+  CurrentEF: 5.03948738742375
+  Optimization variables:
+    C1 = 17.01444862921434
+    C2 = 1.280669591022977
+    C3 = 16.67741833871889
+    L1 = 10.30354661271243
+    L2 = 7.352185869025333
+    L3 = 3.81790492648908
+
+SP Optim1[1].SP1[10792] <equivalent_ckt_lib:cell_1:schematic>  optIter=10792  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #10792:
+  CurrentEF: 5.03774497536199
+  Optimization variables:
+    C1 = 17.02321645313873
+    C2 = 1.277788643511718
+    C3 = 16.674163634836
+    L1 = 10.28777645291596
+    L2 = 7.348344584919016
+    L3 = 3.819505587229898
+
+SP Optim1[1].SP1[10935] <equivalent_ckt_lib:cell_1:schematic>  optIter=10935  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #10935:
+  CurrentEF: 5.03724005640113
+  Optimization variables:
+    C1 = 17.0204475561406
+    C2 = 1.26805527594177
+    C3 = 16.68304786112452
+    L1 = 10.29131428643771
+    L2 = 7.348238881207157
+    L3 = 3.814824443026934
+
+SP Optim1[1].SP1[11075] <equivalent_ckt_lib:cell_1:schematic>  optIter=11075  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11075:
+  CurrentEF: 5.03675137084382
+  Optimization variables:
+    C1 = 17.05286875445825
+    C2 = 1.27505837780157
+    C3 = 16.6916171378846
+    L1 = 10.27417886810876
+    L2 = 7.336129763072496
+    L3 = 3.815619008605887
+
+SP Optim1[1].SP1[11227] <equivalent_ckt_lib:cell_1:schematic>  optIter=11227  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11227:
+  CurrentEF: 5.03606672126893
+  Optimization variables:
+    C1 = 17.04469258721207
+    C2 = 1.261944171838302
+    C3 = 16.68994439202644
+    L1 = 10.27226550644884
+    L2 = 7.316721993877197
+    L3 = 3.811506254869815
+
+SP Optim1[1].SP1[11231] <equivalent_ckt_lib:cell_1:schematic>  optIter=11231  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11231:
+  CurrentEF: 5.03521582625247
+  Optimization variables:
+    C1 = 17.02807145418713
+    C2 = 1.261867041642113
+    C3 = 16.6878976496791
+    L1 = 10.28405774157029
+    L2 = 7.297263515241949
+    L3 = 3.811537218859653
+
+SP Optim1[1].SP1[11238] <equivalent_ckt_lib:cell_1:schematic>  optIter=11238  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11238:
+  CurrentEF: 5.03441923716381
+  Optimization variables:
+    C1 = 17.01556055753928
+    C2 = 1.279054077857013
+    C3 = 16.66325063046879
+    L1 = 10.29375367826418
+    L2 = 7.264526145865791
+    L3 = 3.820731105533197
+
+SP Optim1[1].SP1[11510] <equivalent_ckt_lib:cell_1:schematic>  optIter=11510  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11510:
+  CurrentEF: 5.0336816794699
+  Optimization variables:
+    C1 = 17.03511745207682
+    C2 = 1.259101882066509
+    C3 = 16.66605957827821
+    L1 = 10.27704427155147
+    L2 = 7.226063248675903
+    L3 = 3.816511021885694
+
+SP Optim1[1].SP1[11517] <equivalent_ckt_lib:cell_1:schematic>  optIter=11517  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11517:
+  CurrentEF: 5.0306554601122
+  Optimization variables:
+    C1 = 17.05969918807567
+    C2 = 1.276298779065247
+    C3 = 16.67225123689528
+    L1 = 10.26996142758259
+    L2 = 7.210667872470107
+    L3 = 3.816537683022612
+
+SP Optim1[1].SP1[11661] <equivalent_ckt_lib:cell_1:schematic>  optIter=11661  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11661:
+  CurrentEF: 5.03006675708338
+  Optimization variables:
+    C1 = 17.05012968431364
+    C2 = 1.281307667234744
+    C3 = 16.68032515568666
+    L1 = 10.26840580581643
+    L2 = 7.188707744356605
+    L3 = 3.814768786555361
+
+SP Optim1[1].SP1[11789] <equivalent_ckt_lib:cell_1:schematic>  optIter=11789  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11789:
+  CurrentEF: 5.02961131589765
+  Optimization variables:
+    C1 = 17.06551030417388
+    C2 = 1.285143165206082
+    C3 = 16.67784755445573
+    L1 = 10.26888711298458
+    L2 = 7.174014896393402
+    L3 = 3.815708263842097
+
+SP Optim1[1].SP1[11805] <equivalent_ckt_lib:cell_1:schematic>  optIter=11805  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11805:
+  CurrentEF: 5.02869599330113
+  Optimization variables:
+    C1 = 17.01420802108874
+    C2 = 1.305706301159601
+    C3 = 16.70735976740423
+    L1 = 10.30202971720336
+    L2 = 7.076252787626658
+    L3 = 3.815882997689387
+
+SP Optim1[1].SP1[11838] <equivalent_ckt_lib:cell_1:schematic>  optIter=11838  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11838:
+  CurrentEF: 5.02527794894712
+  Optimization variables:
+    C1 = 17.01495802634773
+    C2 = 1.28306112207786
+    C3 = 16.66857196650048
+    L1 = 10.29993935125036
+    L2 = 7.061800657845927
+    L3 = 3.818478971256914
+
+SP Optim1[1].SP1[11927] <equivalent_ckt_lib:cell_1:schematic>  optIter=11927  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #11927:
+  CurrentEF: 5.02497541534355
+  Optimization variables:
+    C1 = 17.00208352672736
+    C2 = 1.287797639000242
+    C3 = 16.74982459166527
+    L1 = 10.31367721222557
+    L2 = 6.99415816276766
+    L3 = 3.80715786280115
+
+SP Optim1[1].SP1[12136] <equivalent_ckt_lib:cell_1:schematic>  optIter=12136  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #12136:
+  CurrentEF: 5.0242863417734
+  Optimization variables:
+    C1 = 17.02574923187845
+    C2 = 1.293260906431663
+    C3 = 16.74413710461609
+    L1 = 10.30249771396472
+    L2 = 6.971893272582435
+    L3 = 3.808686659431392
+
+SP Optim1[1].SP1[12257] <equivalent_ckt_lib:cell_1:schematic>  optIter=12257  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #12257:
+  CurrentEF: 5.02213395749929
+  Optimization variables:
+    C1 = 17.04719924921871
+    C2 = 1.306241048272863
+    C3 = 16.72236861530196
+    L1 = 10.28008843478499
+    L2 = 6.956252325047352
+    L3 = 3.812299873163316
+
+SP Optim1[1].SP1[12261] <equivalent_ckt_lib:cell_1:schematic>  optIter=12261  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #12261:
+  CurrentEF: 5.02103271373357
+  Optimization variables:
+    C1 = 17.04418714562174
+    C2 = 1.285399851269455
+    C3 = 16.72254301298661
+    L1 = 10.28635725670603
+    L2 = 6.955961147631132
+    L3 = 3.807907704935903
+
+SP Optim1[1].SP1[12430] <equivalent_ckt_lib:cell_1:schematic>  optIter=12430  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #12430:
+  CurrentEF: 5.01968574612458
+  Optimization variables:
+    C1 = 17.05372094143601
+    C2 = 1.293382392692326
+    C3 = 16.7009627332378
+    L1 = 10.2668082796405
+    L2 = 6.949683499118597
+    L3 = 3.814658906163394
+
+SP Optim1[1].SP1[12591] <equivalent_ckt_lib:cell_1:schematic>  optIter=12591  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #12591:
+  CurrentEF: 5.01899538979501
+  Optimization variables:
+    C1 = 17.0851346939548
+    C2 = 1.288061184315227
+    C3 = 16.6791590026201
+    L1 = 10.26122277729426
+    L2 = 6.932513124852824
+    L3 = 3.814576443516603
+
+SP Optim1[1].SP1[12670] <equivalent_ckt_lib:cell_1:schematic>  optIter=12670  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #12670:
+  CurrentEF: 5.01889875947108
+  Optimization variables:
+    C1 = 17.09318253690386
+    C2 = 1.282895327700329
+    C3 = 16.660462845423
+    L1 = 10.23916097189482
+    L2 = 6.905492463982887
+    L3 = 3.81920439861636
+
+SP Optim1[1].SP1[12742] <equivalent_ckt_lib:cell_1:schematic>  optIter=12742  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #12742:
+  CurrentEF: 5.01669119431533
+  Optimization variables:
+    C1 = 17.09300578207768
+    C2 = 1.315435499264872
+    C3 = 16.64298522953589
+    L1 = 10.23751143925449
+    L2 = 6.879428697661931
+    L3 = 3.825323770321527
+
+SP Optim1[1].SP1[12892] <equivalent_ckt_lib:cell_1:schematic>  optIter=12892  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #12892:
+  CurrentEF: 5.01660159314029
+  Optimization variables:
+    C1 = 17.07579843711575
+    C2 = 1.302561435941628
+    C3 = 16.64418273062916
+    L1 = 10.24382188892077
+    L2 = 6.869551321062746
+    L3 = 3.822143544396249
+
+SP Optim1[1].SP1[12897] <equivalent_ckt_lib:cell_1:schematic>  optIter=12897  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #12897:
+  CurrentEF: 5.01581029380434
+  Optimization variables:
+    C1 = 17.08332922061068
+    C2 = 1.299086342427819
+    C3 = 16.68158439091165
+    L1 = 10.24816016173843
+    L2 = 6.866261202804957
+    L3 = 3.818637715603344
+
+SP Optim1[1].SP1[12993] <equivalent_ckt_lib:cell_1:schematic>  optIter=12993  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #12993:
+  CurrentEF: 5.01539941810571
+  Optimization variables:
+    C1 = 17.08905626226956
+    C2 = 1.29566628775779
+    C3 = 16.67460682624176
+    L1 = 10.25415180831284
+    L2 = 6.874370351810068
+    L3 = 3.81864778120884
+
+SP Optim1[1].SP1[13014] <equivalent_ckt_lib:cell_1:schematic>  optIter=13014  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13014:
+  CurrentEF: 5.01529949034454
+  Optimization variables:
+    C1 = 17.1178852732079
+    C2 = 1.316540000020236
+    C3 = 16.67072565802443
+    L1 = 10.23924274712957
+    L2 = 6.832512692206752
+    L3 = 3.824117383766133
+
+SP Optim1[1].SP1[13039] <equivalent_ckt_lib:cell_1:schematic>  optIter=13039  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13039:
+  CurrentEF: 5.01367741932416
+  Optimization variables:
+    C1 = 17.17209606640671
+    C2 = 1.32112505302541
+    C3 = 16.6397175791627
+    L1 = 10.19704737347136
+    L2 = 6.787239700653227
+    L3 = 3.827990150148373
+
+SP Optim1[1].SP1[13128] <equivalent_ckt_lib:cell_1:schematic>  optIter=13128  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13128:
+  CurrentEF: 5.01129904598507
+  Optimization variables:
+    C1 = 17.16677819783817
+    C2 = 1.326248594174295
+    C3 = 16.62175852075158
+    L1 = 10.20007515471223
+    L2 = 6.764679275415832
+    L3 = 3.829782790494727
+
+SP Optim1[1].SP1[13185] <equivalent_ckt_lib:cell_1:schematic>  optIter=13185  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13185:
+  CurrentEF: 5.01073252649757
+  Optimization variables:
+    C1 = 17.15939177254241
+    C2 = 1.325297150074445
+    C3 = 16.63018227504401
+    L1 = 10.21254424260522
+    L2 = 6.755781696053957
+    L3 = 3.828657962187552
+
+SP Optim1[1].SP1[13322] <equivalent_ckt_lib:cell_1:schematic>  optIter=13322  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13322:
+  CurrentEF: 5.01004076932213
+  Optimization variables:
+    C1 = 17.15904927743402
+    C2 = 1.31084438334298
+    C3 = 16.62339899393038
+    L1 = 10.20791390971762
+    L2 = 6.738396352582776
+    L3 = 3.825152431715083
+
+SP Optim1[1].SP1[13493] <equivalent_ckt_lib:cell_1:schematic>  optIter=13493  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13493:
+  CurrentEF: 5.00939174289467
+  Optimization variables:
+    C1 = 17.1163253323988
+    C2 = 1.309254933052152
+    C3 = 16.61084884431113
+    L1 = 10.22848601023602
+    L2 = 6.723247191155139
+    L3 = 3.830565164816173
+
+SP Optim1[1].SP1[13597] <equivalent_ckt_lib:cell_1:schematic>  optIter=13597  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13597:
+  CurrentEF: 5.00711994002466
+  Optimization variables:
+    C1 = 17.06044728137143
+    C2 = 1.306858418699253
+    C3 = 16.63633512429294
+    L1 = 10.25810080749204
+    L2 = 6.657600253950752
+    L3 = 3.821827611908794
+
+SP Optim1[1].SP1[13610] <equivalent_ckt_lib:cell_1:schematic>  optIter=13610  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13610:
+  CurrentEF: 5.0060973815585
+  Optimization variables:
+    C1 = 17.07827323501539
+    C2 = 1.29531995600303
+    C3 = 16.69136177924438
+    L1 = 10.2566236957693
+    L2 = 6.645404677932604
+    L3 = 3.81029322702748
+
+SP Optim1[1].SP1[13638] <equivalent_ckt_lib:cell_1:schematic>  optIter=13638  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13638:
+  CurrentEF: 5.00578978702293
+  Optimization variables:
+    C1 = 17.0792124798004
+    C2 = 1.298207846220402
+    C3 = 16.67011206377828
+    L1 = 10.25858239919013
+    L2 = 6.663482670334348
+    L3 = 3.815290533966783
+
+SP Optim1[1].SP1[13641] <equivalent_ckt_lib:cell_1:schematic>  optIter=13641  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13641:
+  CurrentEF: 5.00496261478367
+  Optimization variables:
+    C1 = 17.09093745511389
+    C2 = 1.315429729044737
+    C3 = 16.66603412653755
+    L1 = 10.25347611667614
+    L2 = 6.625749044376963
+    L3 = 3.817372434369655
+
+SP Optim1[1].SP1[13754] <equivalent_ckt_lib:cell_1:schematic>  optIter=13754  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13754:
+  CurrentEF: 5.00410923241849
+  Optimization variables:
+    C1 = 17.10088669815329
+    C2 = 1.307907801527216
+    C3 = 16.66210683903888
+    L1 = 10.2469425360004
+    L2 = 6.631207109088072
+    L3 = 3.817806677762437
+
+SP Optim1[1].SP1[13787] <equivalent_ckt_lib:cell_1:schematic>  optIter=13787  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13787:
+  CurrentEF: 5.00387545798393
+  Optimization variables:
+    C1 = 17.13025522944208
+    C2 = 1.320988226708103
+    C3 = 16.63400368340728
+    L1 = 10.22047750418339
+    L2 = 6.635914508378529
+    L3 = 3.826041355298306
+
+SP Optim1[1].SP1[13791] <equivalent_ckt_lib:cell_1:schematic>  optIter=13791  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13791:
+  CurrentEF: 5.00146851399102
+  Optimization variables:
+    C1 = 17.09893993722527
+    C2 = 1.318492505449025
+    C3 = 16.64841918459536
+    L1 = 10.2529650238845
+    L2 = 6.567737953367
+    L3 = 3.82187652496702
+
+SP Optim1[1].SP1[13894] <equivalent_ckt_lib:cell_1:schematic>  optIter=13894  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13894:
+  CurrentEF: 5.00118996980762
+  Optimization variables:
+    C1 = 17.05736397623907
+    C2 = 1.322541417455538
+    C3 = 16.62927094469944
+    L1 = 10.25851902087535
+    L2 = 6.529902581411514
+    L3 = 3.827857785591947
+
+SP Optim1[1].SP1[13904] <equivalent_ckt_lib:cell_1:schematic>  optIter=13904  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13904:
+  CurrentEF: 4.99901887982652
+  Optimization variables:
+    C1 = 17.0633749866548
+    C2 = 1.336793471924611
+    C3 = 16.64307407683538
+    L1 = 10.26941058051334
+    L2 = 6.494676110812361
+    L3 = 3.827200360639701
+
+SP Optim1[1].SP1[13942] <equivalent_ckt_lib:cell_1:schematic>  optIter=13942  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13942:
+  CurrentEF: 4.99899059300111
+  Optimization variables:
+    C1 = 17.08807459419873
+    C2 = 1.325063669646662
+    C3 = 16.64525741314147
+    L1 = 10.23940067933423
+    L2 = 6.496256117694847
+    L3 = 3.826774797219017
+
+SP Optim1[1].SP1[13943] <equivalent_ckt_lib:cell_1:schematic>  optIter=13943  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #13943:
+  CurrentEF: 4.9975142028733
+  Optimization variables:
+    C1 = 17.08493258324184
+    C2 = 1.30847073061272
+    C3 = 16.64046746430606
+    L1 = 10.24666465998417
+    L2 = 6.488297794726363
+    L3 = 3.822855154362079
+
+SP Optim1[1].SP1[14024] <equivalent_ckt_lib:cell_1:schematic>  optIter=14024  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14024:
+  CurrentEF: 4.99677215457082
+  Optimization variables:
+    C1 = 17.0730857204405
+    C2 = 1.308717908544102
+    C3 = 16.66993639285521
+    L1 = 10.26906217240197
+    L2 = 6.467282745315878
+    L3 = 3.816709477663404
+
+SP Optim1[1].SP1[14085] <equivalent_ckt_lib:cell_1:schematic>  optIter=14085  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14085:
+  CurrentEF: 4.99534069971202
+  Optimization variables:
+    C1 = 17.07278419773052
+    C2 = 1.307978555572374
+    C3 = 16.67904988187721
+    L1 = 10.26565643377154
+    L2 = 6.427478278300633
+    L3 = 3.81844244816772
+
+SP Optim1[1].SP1[14098] <equivalent_ckt_lib:cell_1:schematic>  optIter=14098  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14098:
+  CurrentEF: 4.99476723027569
+  Optimization variables:
+    C1 = 17.0595914616711
+    C2 = 1.319791626950066
+    C3 = 16.69865544512609
+    L1 = 10.27219408205328
+    L2 = 6.419359996267214
+    L3 = 3.812981907352089
+
+SP Optim1[1].SP1[14171] <equivalent_ckt_lib:cell_1:schematic>  optIter=14171  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14171:
+  CurrentEF: 4.99395721671272
+  Optimization variables:
+    C1 = 17.05489133995713
+    C2 = 1.323964945839213
+    C3 = 16.64153572054133
+    L1 = 10.27593653707335
+    L2 = 6.383861537025554
+    L3 = 3.82788803914694
+
+SP Optim1[1].SP1[14229] <equivalent_ckt_lib:cell_1:schematic>  optIter=14229  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14229:
+  CurrentEF: 4.99392942162648
+  Optimization variables:
+    C1 = 17.07693341524416
+    C2 = 1.322629870798689
+    C3 = 16.63303878610818
+    L1 = 10.25952463346701
+    L2 = 6.415031843667883
+    L3 = 3.827499065728241
+
+SP Optim1[1].SP1[14231] <equivalent_ckt_lib:cell_1:schematic>  optIter=14231  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14231:
+  CurrentEF: 4.99225955905067
+  Optimization variables:
+    C1 = 17.08137383589405
+    C2 = 1.335646959923925
+    C3 = 16.63456696492884
+    L1 = 10.25219770503744
+    L2 = 6.385150528290101
+    L3 = 3.827933186525259
+
+SP Optim1[1].SP1[14523] <equivalent_ckt_lib:cell_1:schematic>  optIter=14523  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14523:
+  CurrentEF: 4.99161732548255
+  Optimization variables:
+    C1 = 17.09917797919214
+    C2 = 1.332611246654253
+    C3 = 16.64336982264669
+    L1 = 10.24617359062113
+    L2 = 6.37397640702115
+    L3 = 3.823458869126277
+
+SP Optim1[1].SP1[14696] <equivalent_ckt_lib:cell_1:schematic>  optIter=14696  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14696:
+  CurrentEF: 4.99140739632878
+  Optimization variables:
+    C1 = 17.11005255565997
+    C2 = 1.329864697753723
+    C3 = 16.61931683928811
+    L1 = 10.23261215486889
+    L2 = 6.365920269953032
+    L3 = 3.827132721542213
+
+SP Optim1[1].SP1[14780] <equivalent_ckt_lib:cell_1:schematic>  optIter=14780  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14780:
+  CurrentEF: 4.99113229683642
+  Optimization variables:
+    C1 = 17.08394675008816
+    C2 = 1.323620681852224
+    C3 = 16.64727595858824
+    L1 = 10.25522682146263
+    L2 = 6.339277686386759
+    L3 = 3.826622271891727
+
+SP Optim1[1].SP1[14828] <equivalent_ckt_lib:cell_1:schematic>  optIter=14828  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14828:
+  CurrentEF: 4.99088671500558
+  Optimization variables:
+    C1 = 17.06752520779324
+    C2 = 1.303880564551318
+    C3 = 16.66403472952476
+    L1 = 10.26353327037045
+    L2 = 6.337362433310266
+    L3 = 3.816909123564905
+
+SP Optim1[1].SP1[14993] <equivalent_ckt_lib:cell_1:schematic>  optIter=14993  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #14993:
+  CurrentEF: 4.99049646402604
+  Optimization variables:
+    C1 = 17.05453324921259
+    C2 = 1.310474308606778
+    C3 = 16.68389068452265
+    L1 = 10.27017516384415
+    L2 = 6.345297006305072
+    L3 = 3.814779152390679
+
+SP Optim1[1].SP1[15422] <equivalent_ckt_lib:cell_1:schematic>  optIter=15422  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #15422:
+  CurrentEF: 4.98997322539614
+  Optimization variables:
+    C1 = 17.05251572936552
+    C2 = 1.318248392203122
+    C3 = 16.68652010361808
+    L1 = 10.26791080333386
+    L2 = 6.323935586496869
+    L3 = 3.814164481190105
+
+SP Optim1[1].SP1[15433] <equivalent_ckt_lib:cell_1:schematic>  optIter=15433  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #15433:
+  CurrentEF: 4.98904566519483
+  Optimization variables:
+    C1 = 17.06945434300929
+    C2 = 1.342592017148076
+    C3 = 16.6805510990664
+    L1 = 10.25846618912069
+    L2 = 6.292742344307591
+    L3 = 3.82230441618047
+
+SP Optim1[1].SP1[15434] <equivalent_ckt_lib:cell_1:schematic>  optIter=15434  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #15434:
+  CurrentEF: 4.98869473918932
+  Optimization variables:
+    C1 = 17.04246017463403
+    C2 = 1.333975055900148
+    C3 = 16.69900387092522
+    L1 = 10.27953976368919
+    L2 = 6.286012160237552
+    L3 = 3.815994701460761
+
+SP Optim1[1].SP1[15440] <equivalent_ckt_lib:cell_1:schematic>  optIter=15440  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #15440:
+  CurrentEF: 4.98783164854478
+  Optimization variables:
+    C1 = 17.07520568363208
+    C2 = 1.336558335758569
+    C3 = 16.67383230633207
+    L1 = 10.26715119569575
+    L2 = 6.29396640573342
+    L3 = 3.821736881395182
+
+SP Optim1[1].SP1[15537] <equivalent_ckt_lib:cell_1:schematic>  optIter=15537  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #15537:
+  CurrentEF: 4.98777830504628
+  Optimization variables:
+    C1 = 17.08265235680219
+    C2 = 1.321396689610526
+    C3 = 16.68702622331498
+    L1 = 10.26765079029829
+    L2 = 6.236918559624296
+    L3 = 3.819145927939045
+
+SP Optim1[1].SP1[15545] <equivalent_ckt_lib:cell_1:schematic>  optIter=15545  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #15545:
+  CurrentEF: 4.98772892535083
+  Optimization variables:
+    C1 = 17.05876551572237
+    C2 = 1.303669782492545
+    C3 = 16.68503619705436
+    L1 = 10.26147564202361
+    L2 = 6.245150131734273
+    L3 = 3.812162448426726
+
+SP Optim1[1].SP1[15550] <equivalent_ckt_lib:cell_1:schematic>  optIter=15550  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #15550:
+  CurrentEF: 4.98510115029168
+  Optimization variables:
+    C1 = 17.08764572344592
+    C2 = 1.328587735147528
+    C3 = 16.68949670069796
+    L1 = 10.26132484230111
+    L2 = 6.228061456948748
+    L3 = 3.817521931805702
+
+SP Optim1[1].SP1[15590] <equivalent_ckt_lib:cell_1:schematic>  optIter=15590  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #15590:
+  CurrentEF: 4.98479384558702
+  Optimization variables:
+    C1 = 17.0927869363129
+    C2 = 1.315286119128649
+    C3 = 16.66530233043451
+    L1 = 10.24777600840782
+    L2 = 6.225817480337943
+    L3 = 3.817569429125533
+
+SP Optim1[1].SP1[15594] <equivalent_ckt_lib:cell_1:schematic>  optIter=15594  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #15594:
+  CurrentEF: 4.98399510413451
+  Optimization variables:
+    C1 = 17.11411961882255
+    C2 = 1.318317226022522
+    C3 = 16.65435217933918
+    L1 = 10.24310418970255
+    L2 = 6.195707178719177
+    L3 = 3.819221324595497
+
+SP Optim1[1].SP1[15697] <equivalent_ckt_lib:cell_1:schematic>  optIter=15697  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #15697:
+  CurrentEF: 4.98229596696048
+  Optimization variables:
+    C1 = 17.11804184666821
+    C2 = 1.334844784216241
+    C3 = 16.63895037448705
+    L1 = 10.23813354201922
+    L2 = 6.19533393984675
+    L3 = 3.824530336611355
+
+SP Optim1[1].SP1[16025] <equivalent_ckt_lib:cell_1:schematic>  optIter=16025  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16025:
+  CurrentEF: 4.9814062975509
+  Optimization variables:
+    C1 = 17.12575324824189
+    C2 = 1.34581707155141
+    C3 = 16.6215401612968
+    L1 = 10.22794945918928
+    L2 = 6.179737679160222
+    L3 = 3.830172805387941
+
+SP Optim1[1].SP1[16116] <equivalent_ckt_lib:cell_1:schematic>  optIter=16116  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16116:
+  CurrentEF: 4.98123345345956
+  Optimization variables:
+    C1 = 17.13222632026353
+    C2 = 1.386732833516357
+    C3 = 16.64396362066223
+    L1 = 10.22569833515263
+    L2 = 6.058838896353543
+    L3 = 3.835476066410407
+
+SP Optim1[1].SP1[16130] <equivalent_ckt_lib:cell_1:schematic>  optIter=16130  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16130:
+  CurrentEF: 4.98086655288559
+  Optimization variables:
+    C1 = 17.10296854630978
+    C2 = 1.401238835903651
+    C3 = 16.58133010729058
+    L1 = 10.23885826994323
+    L2 = 5.940210094141416
+    L3 = 3.848405172376554
+
+SP Optim1[1].SP1[16164] <equivalent_ckt_lib:cell_1:schematic>  optIter=16164  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16164:
+  CurrentEF: 4.97474724970675
+  Optimization variables:
+    C1 = 17.13789751484592
+    C2 = 1.378203205841789
+    C3 = 16.60593416287315
+    L1 = 10.23356178846915
+    L2 = 5.953962913359088
+    L3 = 3.833933398687614
+
+SP Optim1[1].SP1[16170] <equivalent_ckt_lib:cell_1:schematic>  optIter=16170  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16170:
+  CurrentEF: 4.97472483727581
+  Optimization variables:
+    C1 = 17.12900823360979
+    C2 = 1.353125687169391
+    C3 = 16.63765210417543
+    L1 = 10.23897377007262
+    L2 = 5.92887025600249
+    L3 = 3.821430310238746
+
+SP Optim1[1].SP1[16176] <equivalent_ckt_lib:cell_1:schematic>  optIter=16176  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16176:
+  CurrentEF: 4.97028594891326
+  Optimization variables:
+    C1 = 17.15885912552103
+    C2 = 1.391036302124353
+    C3 = 16.60309795337514
+    L1 = 10.21489663813425
+    L2 = 5.901743194256246
+    L3 = 3.838940286395605
+
+SP Optim1[1].SP1[16191] <equivalent_ckt_lib:cell_1:schematic>  optIter=16191  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16191:
+  CurrentEF: 4.96935756464905
+  Optimization variables:
+    C1 = 17.16353259039342
+    C2 = 1.378754660037866
+    C3 = 16.59707543660689
+    L1 = 10.18737016847337
+    L2 = 5.847209788887316
+    L3 = 3.835266130424492
+
+SP Optim1[1].SP1[16286] <equivalent_ckt_lib:cell_1:schematic>  optIter=16286  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16286:
+  CurrentEF: 4.96587131684596
+  Optimization variables:
+    C1 = 17.12933406453327
+    C2 = 1.364052706880496
+    C3 = 16.63922050335352
+    L1 = 10.22107291586027
+    L2 = 5.828059949370091
+    L3 = 3.823885108620447
+
+SP Optim1[1].SP1[16324] <equivalent_ckt_lib:cell_1:schematic>  optIter=16324  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16324:
+  CurrentEF: 4.96446044247966
+  Optimization variables:
+    C1 = 17.16591344699934
+    C2 = 1.35886386216456
+    C3 = 16.63709106944813
+    L1 = 10.20419511365493
+    L2 = 5.809809985089371
+    L3 = 3.823360121024328
+
+SP Optim1[1].SP1[16327] <equivalent_ckt_lib:cell_1:schematic>  optIter=16327  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16327:
+  CurrentEF: 4.96358246085409
+  Optimization variables:
+    C1 = 17.16387535168462
+    C2 = 1.377547900819572
+    C3 = 16.62379044519188
+    L1 = 10.21704830448667
+    L2 = 5.804804614657508
+    L3 = 3.83196836791601
+
+SP Optim1[1].SP1[16460] <equivalent_ckt_lib:cell_1:schematic>  optIter=16460  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16460:
+  CurrentEF: 4.96036621844174
+  Optimization variables:
+    C1 = 17.1646068108002
+    C2 = 1.370750046623939
+    C3 = 16.62325751909792
+    L1 = 10.19827464284
+    L2 = 5.74054018266516
+    L3 = 3.830903534879307
+
+SP Optim1[1].SP1[16495] <equivalent_ckt_lib:cell_1:schematic>  optIter=16495  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16495:
+  CurrentEF: 4.96013384722557
+  Optimization variables:
+    C1 = 17.17465508069933
+    C2 = 1.368210240885687
+    C3 = 16.61755210648095
+    L1 = 10.2026496811415
+    L2 = 5.749041709832746
+    L3 = 3.82949350194944
+
+SP Optim1[1].SP1[16769] <equivalent_ckt_lib:cell_1:schematic>  optIter=16769  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16769:
+  CurrentEF: 4.95963495995027
+  Optimization variables:
+    C1 = 17.18865682011424
+    C2 = 1.371197415090731
+    C3 = 16.62424493631338
+    L1 = 10.20202691077466
+    L2 = 5.72062487868971
+    L3 = 3.829726127237405
+
+SP Optim1[1].SP1[16885] <equivalent_ckt_lib:cell_1:schematic>  optIter=16885  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16885:
+  CurrentEF: 4.95875876769375
+  Optimization variables:
+    C1 = 17.18145304947798
+    C2 = 1.385897731688007
+    C3 = 16.61397476138443
+    L1 = 10.20851342857249
+    L2 = 5.696750149661055
+    L3 = 3.835640522589928
+
+SP Optim1[1].SP1[16891] <equivalent_ckt_lib:cell_1:schematic>  optIter=16891  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16891:
+  CurrentEF: 4.95714688363603
+  Optimization variables:
+    C1 = 17.19033332289576
+    C2 = 1.358058139743616
+    C3 = 16.64736885763788
+    L1 = 10.18661155365336
+    L2 = 5.613050136714864
+    L3 = 3.82395991676897
+
+SP Optim1[1].SP1[16909] <equivalent_ckt_lib:cell_1:schematic>  optIter=16909  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16909:
+  CurrentEF: 4.95634343003871
+  Optimization variables:
+    C1 = 17.16690197371295
+    C2 = 1.374880834898854
+    C3 = 16.6103433409593
+    L1 = 10.20515652802707
+    L2 = 5.588937640043412
+    L3 = 3.837133634785024
+
+SP Optim1[1].SP1[16927] <equivalent_ckt_lib:cell_1:schematic>  optIter=16927  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16927:
+  CurrentEF: 4.9544082346176
+  Optimization variables:
+    C1 = 17.1326381935692
+    C2 = 1.41537613619746
+    C3 = 16.57268729208318
+    L1 = 10.21625688061469
+    L2 = 5.507402840744983
+    L3 = 3.844046890336652
+
+SP Optim1[1].SP1[16930] <equivalent_ckt_lib:cell_1:schematic>  optIter=16930  freq=(5 GHz->32 GHz)
+
+Iteration/Trial #16930:
+  CurrentEF: 4.95400678971121
+  Optimization variables:
+    C1 = 17.20896709974352
+    C2 = 1.390476309542638
+    C3 = 16.62174360791326
+    L1 = 10.18391232874768
+    L2 = 5.604823171247459
+    L3 = 3.833820194258275
+

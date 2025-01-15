@@ -1,0 +1,48 @@
+; Top Design: "equivalent_ckt_lib:cell_1:schematic"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="equivalent_ckt_lib:cell_1:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+TLINP:TL1  N__9 N__5 Z=260.15 Ohm L=0.1 mm K=2.1 A=0.0001 F=1 GHz TanD=0.07 Mur=1 TanM=0 Sigma=0 DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz 
+TLINP:TL2  N__5 N__2 Z=260.15 Ohm L=0.4 mm K=2.1 A=0.0001 F=1 GHz TanD=0.07 Mur=1 TanM=0 Sigma=0 DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz 
+Port:TermG2  N__1 0 Num=2 Z=377 Ohm Noise=yes 
+TLINP:TL3  N__2 N__1 Z=377 Ohm L=3 mm K=1 A=0.0001 F=1 GHz TanD=0 Mur=1 TanM=0 Sigma=0 DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz 
+R:R1  N__9 N__6 R=R2 Ohm Noise=yes 
+L:L1  N__6 N__8 L=43.8 nH Noise=yes  
+C:C1  N__8 0 C=1.5 fF 
+R:R2  N__9 N__10 R=R1 Ohm Noise=yes 
+L:L2  N__10 N__11 L=3.4 nH Noise=yes  
+C:C2  N__11 0 C=16.9 fF 
+R:R3  N__9 N__14 R=R3 Ohm Noise=yes 
+L:L3  N__14 N__15 L=11.38 nH Noise=yes  
+C:C3  N__15 0 C=14.39 fF 
+#uselib "ckt" , "SnP"
+SnP:SnP1  N__0 N__4 NumPorts=2 File="C:\Users\GUNA\OneDrive\Desktop\Acad\Project\Absorbers\3D_printing\Perforated_SUB_TRY_01_UPD.s2p" Type="touchstone" InterpMode="linear" InterpDom="" ExtrapMode="constant" Temp=27.0 CheckPassivity=0 
+Port:TermG1  N__9 0 Num=1 Z=377 Ohm Noise=yes 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=5 GHz Stop=32 GHz Step=0.01 GHz 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
+OptimGoal:OptimGoal1 Expr="db(S(1,1))-db(S(3,3))" SimInstanceName="SP1" Weight=1 \
+SpecLimitLine[1]="OptimGoal1_limit1" SpecLimitLine[2]="OptimGoal1_limit2" 
+SpecLimitLine:"OptimGoal1_limit1" Type="GreaterThan" Min=-0.5 Weight=1 
+SpecLimitLine:"OptimGoal1_limit2" Type="LessThan" Max=0.5 Weight=1 
+
+R1=478 tune{ 0.1 to 1000 by 0.1 } opt{ 0.1 to 1000 }
+R2=1085 tune{ 0.1 to 1000 by 0.1 } opt{ 0.1 to 2000 }
+R3=440 tune{ 0.1 to 1000 by 0.1 } opt{ 0.1 to 1000 }
+
+Optim:"Optim1" OptimType="random" ErrorForm="L2" MaxIters=25000 P=2 DesiredError=0.0 StatusLevel=4 FinalAnalysis="None" NormalizeGoals=yes SetBestValues=yes SaveSolns=yes SaveGoals=yes SaveOptimVars=no UpdateDataset=yes SaveNominal=no SaveAllIterations=no UseAllOptVars=yes UseAllGoals=yes SaveCurrentEF=no InitialTempControlMode=0 SANumTrialsPerIter=10 NumShootsPerIter=20 SATempControlAlpha=0.8 EnableCockpit=yes NormalizeError=yes SaveAllTrials=no UseAdvTermCriteria=no CostRelativeTol=1.0e-8 LimitOfContSmallImprovement=5 
+
+Port:TermG3  N__0 0 Num=3 Z=377 Ohm Noise=yes 
+Port:TermG4  N__4 0 Num=4 Z=377 Ohm Noise=yes 
+R:R4  N__1 0 R=0 Ohm Noise=yes 
