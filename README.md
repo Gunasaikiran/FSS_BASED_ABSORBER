@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d55f749c-7acd-44be-af70-c05af9558ef4)# FSS Based Absorber
+# FSS Based Absorber
 This Project presents a novel design for a 3-D printed conformal absorber
 based on frequency selective surface (FSS) concept, which exhibits excellent
 broadband performance and flexibility. The absorber incorporates an innovative
@@ -49,7 +49,7 @@ been demonstrated that aligns well with the simulated ones. <br>
 
 4]Cummulative Response:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/cummulitive_response.jpg" >
+  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/Cummulitive_response.jpg" >
 </p>
 
 
@@ -69,7 +69,7 @@ been demonstrated that aligns well with the simulated ones. <br>
 
 8]Testing:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/Measurement_test.png" >
+  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/Measurment_test.png" >
 </p>
 Add a Star 🌟 to this 👆 Repository.<br>
 For Sponsor or Project Enquiry
