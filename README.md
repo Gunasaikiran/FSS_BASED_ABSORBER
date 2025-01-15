@@ -1,4 +1,4 @@
-# FSS Based Absorber
+![image](https://github.com/user-attachments/assets/d55f749c-7acd-44be-af70-c05af9558ef4)# FSS Based Absorber
 This Project presents a novel design for a 3-D printed conformal absorber
 based on frequency selective surface (FSS) concept, which exhibits excellent
 broadband performance and flexibility. The absorber incorporates an innovative
@@ -29,19 +29,19 @@ been demonstrated that aligns well with the simulated ones. <br>
 
 1]Circuit Geometry:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/7-segment.png" >
+  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/3d_with_axis.png" >
 </p>
 
 2]FW:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/bcdto7logicckt.png" >
+  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/FW.jpg" >
 </p>
 
 
 
 3]SW:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/Cmos%20TotalPic.png" >
+  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/It_3(SW).jpg" >
 </p>
 
 
@@ -49,27 +49,27 @@ been demonstrated that aligns well with the simulated ones. <br>
 
 4]Cummulative Response:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/Modified_TOtal.png" >
+  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/cummulitive_response.jpg" >
 </p>
 
 
 5]Conformal:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/Total_op_mod.png" >
+  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/Conformal_orie.png" >
 </p>
 6]Printing:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/Total_op_mod.png" >
+  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/Printing.jpg" >
 </p>
 
 7]Fabiricated Pic:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/Total_op_mod.png" >
+  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/fab-2.jpg" >
 </p>
 
 8]Testing:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/Total_op_mod.png" >
+  <img src="https://github.com/Gunasaikiran/FSS_BASED_ABSORBER/blob/main/THESIS%26PPT/README_PICTURES/Measurement_test.png" >
 </p>
 Add a Star 🌟 to this 👆 Repository.<br>
 For Sponsor or Project Enquiry
